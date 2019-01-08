@@ -1,0 +1,1559 @@
+fileFormatVersion: 2
+guid: 6d82e31978a887f4198433c637772326
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: animations
+    21300002: Attack-Attack (1)
+    21300004: Attack-Attack (2)
+    21300006: Attack-Attack (3)
+    21300008: Attack-Attack (4)
+    21300010: Attack-Attack (5)
+    21300012: Attack-Attack (6)
+    21300014: Attack-Attack (7)
+    21300016: Attack-Attack (8)
+    21300018: Attack-Attack (9)
+    21300020: Attack-Attack (10)
+    21300022: Dead-Dead (1)
+    21300024: Dead-Dead (2)
+    21300026: Dead-Dead (3)
+    21300028: Dead-Dead (4)
+    21300030: Dead-Dead (5)
+    21300032: Dead-Dead (6)
+    21300034: Dead-Dead (7)
+    21300036: Dead-Dead (8)
+    21300038: Dead-Dead (9)
+    21300040: Dead-Dead (10)
+    21300042: Idle-Idle (1)
+    21300044: Idle-Idle (2)
+    21300046: Idle-Idle (3)
+    21300048: Idle-Idle (4)
+    21300050: Idle-Idle (5)
+    21300052: Idle-Idle (6)
+    21300054: Idle-Idle (7)
+    21300056: Idle-Idle (8)
+    21300058: Idle-Idle (9)
+    21300060: Idle-Idle (10)
+    21300062: Jump-Jump (1)
+    21300064: Jump-Jump (2)
+    21300066: Jump-Jump (3)
+    21300068: Jump-Jump (4)
+    21300070: Jump-Jump (5)
+    21300072: Jump-Jump (6)
+    21300074: Jump-Jump (7)
+    21300076: Jump-Jump (8)
+    21300078: Jump-Jump (9)
+    21300080: Jump-Jump (10)
+    21300082: JumpAttack-JumpAttack (1)
+    21300084: JumpAttack-JumpAttack (2)
+    21300086: JumpAttack-JumpAttack (3)
+    21300088: JumpAttack-JumpAttack (4)
+    21300090: JumpAttack-JumpAttack (5)
+    21300092: JumpAttack-JumpAttack (6)
+    21300094: JumpAttack-JumpAttack (7)
+    21300096: JumpAttack-JumpAttack (8)
+    21300098: JumpAttack-JumpAttack (9)
+    21300100: JumpAttack-JumpAttack (10)
+    21300102: Run-Run (1)
+    21300104: Run-Run (2)
+    21300106: Run-Run (3)
+    21300108: Run-Run (4)
+    21300110: Run-Run (5)
+    21300112: Run-Run (6)
+    21300114: Run-Run (7)
+    21300116: Run-Run (8)
+    21300118: Run-Run (9)
+    21300120: Run-Run (10)
+    21300122: Walk-Walk (1)
+    21300124: Walk-Walk (2)
+    21300126: Walk-Walk (3)
+    21300128: Walk-Walk (4)
+    21300130: Walk-Walk (5)
+    21300132: Walk-Walk (6)
+    21300134: Walk-Walk (7)
+    21300136: Walk-Walk (8)
+    21300138: Walk-Walk (9)
+    21300140: Walk-Walk (10)
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack-Attack (1)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2032
+        width: 397
+        height: 623
+      alignment: 9
+      pivot: {x: 0.61083126, y: 0.48876405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4713380fee23f234284f6a071b317a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (2)
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2019
+        width: 381
+        height: 636
+      alignment: 9
+      pivot: {x: 0.6128609, y: 0.48349056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803413bb164cf749996c862ca4a78a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (3)
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2031
+        width: 359
+        height: 624
+      alignment: 9
+      pivot: {x: 0.61699164, y: 0.4911859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812ff53aea5a86542a456d83fba90568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (4)
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2029
+        width: 368
+        height: 626
+      alignment: 9
+      pivot: {x: 0.63722825, y: 0.4960064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae6e79ddc2c2104897782e70079c88b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (5)
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2029
+        width: 424
+        height: 626
+      alignment: 9
+      pivot: {x: 0.5884434, y: 0.49440894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140201fe202189d4b8bf9c4bb305d7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (6)
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 2040
+        width: 482
+        height: 615
+      alignment: 9
+      pivot: {x: 0.51763487, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917bc62ca86afb748bf20d00d7c02bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (7)
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2052
+        width: 485
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5185567, y: 0.5082919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc408b281876d248a65b3b32d882c4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (8)
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 2052
+        width: 492
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5172764, y: 0.5082919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67eea8ec7dcf71a428d868d6b283a373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (9)
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 2035
+        width: 513
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5116959, y: 0.49274194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba77d9b3e7bf54a4a964905d2dccdf89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-Attack (10)
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 2033
+        width: 471
+        height: 622
+      alignment: 9
+      pivot: {x: 0.5339703, y: 0.49115756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535869859ed73a84f896ce49b5291e01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (1)
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 2013
+        width: 450
+        height: 642
+      alignment: 9
+      pivot: {x: -0.04888889, y: 0.42912772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00b430ffb305bf439fe10497f1aef3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (2)
+      rect:
+        serializedVersion: 2
+        x: 4845
+        y: 2009
+        width: 443
+        height: 646
+      alignment: 9
+      pivot: {x: -0.029345373, y: 0.42956656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfe1b4c01fb30d459101948b95f66c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (3)
+      rect:
+        serializedVersion: 2
+        x: 5290
+        y: 2022
+        width: 459
+        height: 633
+      alignment: 9
+      pivot: {x: 0.16775599, y: 0.44470775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbecdb794f2a6545b4c4f2614b006b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (4)
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 2075
+        width: 507
+        height: 580
+      alignment: 9
+      pivot: {x: 0.41814595, y: 0.4939655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b2fdb4225f6244b9b912e73359fee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (5)
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 2087
+        width: 516
+        height: 568
+      alignment: 9
+      pivot: {x: 0.5096899, y: 0.54137325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68ad074883fbd5448c069d9ad7101ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (6)
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 2127
+        width: 541
+        height: 528
+      alignment: 9
+      pivot: {x: 0.5415897, y: 0.59185606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69879c036febd2469909f75168bd3b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (7)
+      rect:
+        serializedVersion: 2
+        x: 7321
+        y: 2183
+        width: 586
+        height: 472
+      alignment: 9
+      pivot: {x: 0.5887372, y: 0.6726695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44a1c44cb1e1d4e843e51752695dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (8)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1626
+        width: 676
+        height: 381
+      alignment: 9
+      pivot: {x: 0.62426037, y: 0.8464567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9fc5db5ecb3824394e87ca59819038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (9)
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1669
+        width: 695
+        height: 338
+      alignment: 9
+      pivot: {x: 0.6302158, y: 0.96597636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390d2c6f90a47b7449e2eb946d86b3fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dead-Dead (10)
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1675
+        width: 708
+        height: 332
+      alignment: 9
+      pivot: {x: 0.6341808, y: 0.99849397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc11d24f6fcd546aa820ef5fb3546e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (1)
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1389
+        width: 445
+        height: 618
+      alignment: 9
+      pivot: {x: 0.547191, y: 0.49271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f411c4f8b576f49bec33c3a510f764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (2)
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1388
+        width: 437
+        height: 619
+      alignment: 9
+      pivot: {x: 0.5411899, y: 0.49353796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa2573bef7045f4ea5830d57a5d693c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (3)
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1391
+        width: 435
+        height: 616
+      alignment: 9
+      pivot: {x: 0.53908044, y: 0.4943182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a35019d60e0b0d4c85f69fa4250520d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (4)
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 1392
+        width: 433
+        height: 615
+      alignment: 9
+      pivot: {x: 0.539261, y: 0.49512196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760904fed718ec9499327481144c0c41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (5)
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 1394
+        width: 430
+        height: 613
+      alignment: 9
+      pivot: {x: 0.5383721, y: 0.49673736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb54986fcfda3429e12c2c53d9702c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (6)
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 1383
+        width: 433
+        height: 624
+      alignment: 9
+      pivot: {x: 0.54618937, y: 0.4911859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a229200ce3db499c8956af8de3850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (7)
+      rect:
+        serializedVersion: 2
+        x: 4711
+        y: 1393
+        width: 424
+        height: 614
+      alignment: 9
+      pivot: {x: 0.5389151, y: 0.49592835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd95fb96c45d145a12b0df9f9b64fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (8)
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 1392
+        width: 437
+        height: 615
+      alignment: 9
+      pivot: {x: 0.5457666, y: 0.49512196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80711a8d6e98604a998a7926f5ab2d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (9)
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 1390
+        width: 435
+        height: 617
+      alignment: 9
+      pivot: {x: 0.54367816, y: 0.493517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e7b34aaf4e8244bceebe0fc1a662d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-Idle (10)
+      rect:
+        serializedVersion: 2
+        x: 6013
+        y: 1385
+        width: 437
+        height: 622
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.48954985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35074f450b2d84b498f73466397abfad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (1)
+      rect:
+        serializedVersion: 2
+        x: 6452
+        y: 1364
+        width: 414
+        height: 643
+      alignment: 9
+      pivot: {x: 0.4794686, y: 0.49533436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0565fd95ee0fa146a55ce565671231b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (2)
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 1341
+        width: 432
+        height: 666
+      alignment: 9
+      pivot: {x: 0.5335648, y: 0.5157658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e103c0931cf094c43b60abefa2090027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (3)
+      rect:
+        serializedVersion: 2
+        x: 7302
+        y: 1350
+        width: 402
+        height: 657
+      alignment: 9
+      pivot: {x: 0.6181592, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3c68707fb5c1468e8f9d5c1b4aafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (4)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 696
+        width: 417
+        height: 643
+      alignment: 9
+      pivot: {x: 0.64868104, y: 0.47511664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b8dfdec430371479363f617efca1a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (5)
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 714
+        width: 420
+        height: 625
+      alignment: 9
+      pivot: {x: 0.64880955, y: 0.4616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf7cf61aec1ac4b81c5907cd560c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (6)
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 702
+        width: 424
+        height: 637
+      alignment: 9
+      pivot: {x: 0.6474057, y: 0.4733124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d526fde4c9c844d91fbffec18da4e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (7)
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 707
+        width: 437
+        height: 632
+      alignment: 9
+      pivot: {x: 0.64416474, y: 0.47231013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa4e8326345b7c4b87ed9079f2c9f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (8)
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 700
+        width: 432
+        height: 639
+      alignment: 9
+      pivot: {x: 0.6354167, y: 0.47809076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2e886faf7c9c47bae6f2607a3a72d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (9)
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 688
+        width: 413
+        height: 651
+      alignment: 9
+      pivot: {x: 0.58232445, y: 0.5015361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c1b0edee5fda4baa1f194045d58d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-Jump (10)
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 682
+        width: 417
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5167866, y: 0.5106545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57bbcd5ccf567a4595648f64f6f9113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (1)
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 735
+        width: 414
+        height: 604
+      alignment: 9
+      pivot: {x: 0.6557971, y: 0.45281458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2fe8e859aac734b88cb4682b04e82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (2)
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 704
+        width: 378
+        height: 635
+      alignment: 9
+      pivot: {x: 0.6230159, y: 0.47795275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d49ef69c103444da2287ddb52435d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (3)
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 687
+        width: 374
+        height: 652
+      alignment: 9
+      pivot: {x: 0.6136364, y: 0.48696318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef87537b6efc246bd095280fb0dc3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (4)
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 697
+        width: 396
+        height: 642
+      alignment: 9
+      pivot: {x: 0.614899, y: 0.47741434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642d1ac4abe45e488a7bf7008ed0271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (5)
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 717
+        width: 521
+        height: 622
+      alignment: 9
+      pivot: {x: 0.49040306, y: 0.47829583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0449ad237be4454aa0053fdbcf80b44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (6)
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 714
+        width: 528
+        height: 625
+      alignment: 9
+      pivot: {x: 0.50284094, y: 0.4856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66094d01a519226489d9ad5ad8cc2d71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (7)
+      rect:
+        serializedVersion: 2
+        x: 5598
+        y: 731
+        width: 507
+        height: 608
+      alignment: 9
+      pivot: {x: 0.5197239, y: 0.47286186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b561748401ed1d0489a1427e1e1a07fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (8)
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 733
+        width: 533
+        height: 606
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47112212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a20f27e53eaca47b66eb741fbdf611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (9)
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 719
+        width: 542
+        height: 620
+      alignment: 9
+      pivot: {x: 0.51568264, y: 0.4733871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37523d449aa8934e821ba8712bca22c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpAttack-JumpAttack (10)
+      rect:
+        serializedVersion: 2
+        x: 7186
+        y: 725
+        width: 503
+        height: 614
+      alignment: 9
+      pivot: {x: 0.5337972, y: 0.45358306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eb68c2914c19a49ae2e10d7793b26b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (1)
+      rect:
+        serializedVersion: 2
+        x: 7691
+        y: 695
+        width: 414
+        height: 644
+      alignment: 9
+      pivot: {x: 0.4794686, y: 0.496118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310b44bc970ec9e418cd34d5354673f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (2)
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 380
+        height: 670
+      alignment: 9
+      pivot: {x: 0.49605262, y: 0.5141791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03489a86d7280444a8e0335c6824712f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (3)
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 40
+        width: 382
+        height: 640
+      alignment: 9
+      pivot: {x: 0.5667539, y: 0.48828125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d8ee29fb7c9ed46a575440a8aa89fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (4)
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 49
+        width: 390
+        height: 631
+      alignment: 9
+      pivot: {x: 0.57564104, y: 0.48098257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7553e53b9e0296641b5d255c12c77238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (5)
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 40
+        width: 387
+        height: 640
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49140626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff37e05d289c22a4986a277493a0c73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (6)
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 29
+        width: 415
+        height: 651
+      alignment: 9
+      pivot: {x: 0.48554218, y: 0.4923195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937c2f878b398543bfbc8356277b445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (7)
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 23
+        width: 431
+        height: 657
+      alignment: 9
+      pivot: {x: 0.5348028, y: 0.5045662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26055c305a198d94b8881f10e27212d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (8)
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 43
+        width: 424
+        height: 637
+      alignment: 9
+      pivot: {x: 0.6049528, y: 0.47959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e4e9ea56ff914aa327a202d0e7800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (9)
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 45
+        width: 428
+        height: 635
+      alignment: 9
+      pivot: {x: 0.59696263, y: 0.47795275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4918f12063f0354189ea9a7f1bf9326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run-Run (10)
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 35
+        width: 440
+        height: 645
+      alignment: 9
+      pivot: {x: 0.51704544, y: 0.49534884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4950babb152d614bbd21b99c4033cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (1)
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 26
+        width: 413
+        height: 654
+      alignment: 9
+      pivot: {x: 0.48789346, y: 0.4915902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d97378174cb9840b1139a92caad4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (2)
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 16
+        width: 413
+        height: 664
+      alignment: 9
+      pivot: {x: 0.5096852, y: 0.51581323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a763992e3ab3c41b0968eff76c9098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (3)
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 4
+        width: 395
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5151899, y: 0.5051775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e521fd780c9d9489872f3232ce2de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (4)
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 17
+        width: 402
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5460199, y: 0.49245852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff29833f72c0eb4992e0feecd0dc158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (5)
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 20
+        width: 402
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5236318, y: 0.49318182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db48618e9c725b4b9dea84cf1eb5aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (6)
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 19
+        width: 404
+        height: 661
+      alignment: 9
+      pivot: {x: 0.49876237, y: 0.4969743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f17253adf72d6843b4ae353a1f1f65a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (7)
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 21
+        width: 409
+        height: 659
+      alignment: 9
+      pivot: {x: 0.5244499, y: 0.5121396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9171d07b2a4b729439ea2d26b1c17388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (8)
+      rect:
+        serializedVersion: 2
+        x: 6548
+        y: 21
+        width: 417
+        height: 659
+      alignment: 9
+      pivot: {x: 0.5623501, y: 0.50455236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ab7dafec75dd4d97a26ef53cd98e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (9)
+      rect:
+        serializedVersion: 2
+        x: 6967
+        y: 39
+        width: 424
+        height: 641
+      alignment: 9
+      pivot: {x: 0.5790094, y: 0.4921997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3bcfc6e9264e84fb539f1802536a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk-Walk (10)
+      rect:
+        serializedVersion: 2
+        x: 7393
+        y: 36
+        width: 416
+        height: 644
+      alignment: 9
+      pivot: {x: 0.49639422, y: 0.5023292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee1fae420c2494b9882afe95003dfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7eef5a3408298fd41949502e7fc84097
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
