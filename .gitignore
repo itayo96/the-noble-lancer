@@ -13,6 +13,9 @@
 *.userprefs
 *.pidb
 *.booproj
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+*.iws
 
 # Unity3D generated meta files
 *.pidb.meta
