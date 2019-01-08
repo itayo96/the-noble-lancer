@@ -42,10 +42,10 @@ Material:
     m_Floats:
     - _BendScale: 0.17
     - _EnabledEmissive: 0
-    - _RandOffset: 0.76
+    - _RandOffset: 0.221
     - _Shininess: 0.078125
     - _SquashAmount: 1
-    - _SwayFreq: 0.2
+    - _SwayFreq: 0.1
     - _WindDir: 0.68
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
