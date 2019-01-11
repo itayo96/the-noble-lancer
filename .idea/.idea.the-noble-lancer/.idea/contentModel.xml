@@ -7,6 +7,12 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="codeandweb.com" t="Include">
+          <e p="Editor" t="Include">
+            <e p="SettingsTexturePackerImporter.txt" t="Include" />
+          </e>
+          <e p="Readme.txt" t="Include" />
+        </e>
         <e p="EasyMainMenu" t="Include">
           <e p="Scripts" t="Include">
             <e p="Editor" t="Include">
